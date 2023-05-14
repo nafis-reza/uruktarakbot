@@ -11,9 +11,9 @@ First Download This program or Git Clone This.
 You are ready to use this in you Windows PC
 # Commands
 
-* winget install python
-* pip install openai
-* python openchat.py
+* "winget install python"
+* "pip install openai"
+* "python openchat.py"
 
 
 # Termux INSTALLATION
