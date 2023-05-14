@@ -2,7 +2,7 @@ import openai
 import argparse
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
 
 def generate_response(prompt):
     # Generate a response from the language model
